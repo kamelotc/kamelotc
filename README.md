@@ -1,4 +1,10 @@
-<p align="left">Hello World!!</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+<h1 align="left">Hello World!!</h1>
 
 ###
 
@@ -19,24 +25,8 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
