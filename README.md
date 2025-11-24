@@ -5,7 +5,9 @@
 ###
 
 <h1 align="left">Information:</h1>
-<h3>Étudiant en 1ère année à Coda_, en formation Développeur Fullstack</h3>
+<h4>Étudiant en 1ère année à Coda_ , en formation Développeur Fullstack.</h4>
+<br>
+<br>
 
 ###
 
